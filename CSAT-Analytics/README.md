@@ -5,7 +5,7 @@ This project focuses on analyzing customer satisfaction data to understand custo
 
 Dataset:
 Total Records: 32,942
-Total Columns: 12
+Total Columns: 13
 
 Tools Used:
 SQL,
