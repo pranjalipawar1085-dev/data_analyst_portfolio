@@ -4,11 +4,11 @@ Welcome to my Data Analyst Portfolio
 I am a BA Economics graduate interested in Data Analytics. I enjoy working with data to identify patterns, understand business problems and generate meaningful insights.
 
 Skills:
-SQL
-Microsoft Excel
-Power BI
-Python
-Statistics
+SQL,
+Microsoft Excel,
+Power BI,
+Python,
+Statistics,
 Data Analysis
 
 Projects:
@@ -31,5 +31,5 @@ Certifications:
 Data Analyst Course – DataMites
 
 Contact:
-Email: pranjalipawar1085@gmail.com
+Email: pranjalipawar1085@gmail.com,
 GitHub: pranjalipawar1085-dev
