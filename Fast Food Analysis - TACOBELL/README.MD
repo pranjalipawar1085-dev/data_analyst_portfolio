@@ -13,19 +13,19 @@ SQL – Data querying and analysis,
 Microsoft Excel – Data analysis and calculations,
 Power BI – Data visualization and dashboard creation
 
-#Project Objectives:
-##Analyze the nutritional information of Taco Bell food items.
-##Identify high-calorie and high-sodium food items.
-##Analyze protein, fat, carbohydrate and sugar content.
-##Compare nutritional averages across restaurants.
-##Identify nutritional patterns and insights.
+Project Objectives:
+Analyze the nutritional information of Taco Bell food items.
+Identify high-calorie and high-sodium food items.
+Analyze protein, fat, carbohydrate and sugar content.
+Compare nutritional averages across restaurants.
+Identify nutritional patterns and insights.
 
-#Key Analysis:
-##Top 10 highest-calorie food items.
-##Protein and sodium analysis.
-##Average nutritional values across restaurants.
-##Comparison of nutritional components.
-##Identification of healthier and less healthy food options based on nutritional values.
+Key Analysis:
+Top 10 highest-calorie food items.
+Protein and sodium analysis.
+Average nutritional values across restaurants.
+Comparison of nutritional components.
+Identification of healthier and less healthy food options based on nutritional values.
 
 Conclusion:
 This analysis provides insights into the nutritional composition of Taco Bell menu items and helps understand how different fast-food products compare in terms of nutritional content.
